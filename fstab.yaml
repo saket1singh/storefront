@@ -1,5 +1,2 @@
 mountpoints:
   /: https://github.com/saket1singh/storefront/main
-
-folders:
-  /products/: /products/default
