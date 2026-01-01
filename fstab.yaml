@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/saket1singh/storefront
+    url: https://content.da.live/saket1singh/storefront/
     type: markup
 
 folders:
