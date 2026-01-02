@@ -1,2 +1,7 @@
 mountpoints:
-  /: https://github.com/saket1singh/storefront/main
+  /:
+    url: https://content.da.live/saket1singh/storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
